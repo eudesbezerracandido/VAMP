@@ -1,17 +1,17 @@
 # VAMP
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] VAMP EP. 01 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/hraqCyi74iv8YfWI0LDl3QSiz9d.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] VAMP EP. 02 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/hraqCyi74iv8YfWI0LDl3QSiz9d.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
 </item>
